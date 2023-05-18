@@ -1,15 +1,5 @@
 ﻿namespace Geometry
 {
-    /// \brief Class for calculating the perimeter of a triangle
-	///	\version b0.1
-	///	\date May 15 2023
-    /// \warning This class is for educational purposes only!
-    /// 
-    /// \details This class is created to calculate the perimeter with the following methods:
-    ///             1 . On three sides.
-    ///             2. If it`s rights triangle
-
-
     public class Triangle : ITriangle
     {
         private double eps = Constants.CalculationAccuracy; ///< Mathematical_precision_constant
