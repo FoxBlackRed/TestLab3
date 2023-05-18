@@ -1,8 +1,5 @@
 ﻿namespace Geometry
 {
-    /*
-    \brief Just interface
-    */
     public interface ITriangle : IFigure
     {
         double EdgeA { get;}
