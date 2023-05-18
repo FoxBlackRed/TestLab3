@@ -24,4 +24,4 @@ Checked 2. Залить его в репозиторий, в папку QA_Lab3_
 
 7. Залить отчет в LMS. 
 
-Checked 
+Checked  QA_Lab3_Divnich
