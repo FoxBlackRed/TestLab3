@@ -1,0 +1,5 @@
+D:\_Git`s_\VisualStudio_Repos\Geometry\Geometry\obj\Debug\net7.0\Geometry.csproj.AssemblyReference.cache
+D:\_Git`s_\VisualStudio_Repos\Geometry\Geometry\obj\Debug\net7.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git`s_\VisualStudio_Repos\Geometry\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfoInputs.cache
+D:\_Git`s_\VisualStudio_Repos\Geometry\Geometry\obj\Debug\net7.0\Geometry.AssemblyInfo.cs
+D:\_Git`s_\VisualStudio_Repos\Geometry\Geometry\obj\Debug\net7.0\Geometry.csproj.CoreCompileInputs.cache
